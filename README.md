@@ -1,26 +1,26 @@
 ## yiya
 
-**Verification is the product — for code, and for the humans using it.** Generation went to zero; the margin moved to *proof*.
+**Verification is the product — for code, and for the humans using it.**
 
-I build agentic systems that have to earn their output, and the tools that keep the humans who wield them sharp. That bet runs through everything below: a frontier-research engine that won't record a finding until it clears an emission gate, a live agentic cofounder that turns that research into graded project bets, and a toolchain of agent skills that grades and sharpens *itself* from its own report cards. All shipped in the open — and every one earns its place by surviving my actual day first.
+As generation gets cheap, the scarce thing is proof: that the output is correct, and that the person relying on it actually understands it. I design agentic systems around that constraint — research and build loops that verify their own work before it counts — and tools that keep the people using them sharp instead of dependent.
 
-Founder of **Coaur**, building **[Synapi](https://synapi.app)**. San Francisco.
+I work end to end on it: the agent architecture, the verification and evaluation gates, and the developer tooling around them — shipped in the open, and run against my own work before anyone else's.
+
+Founder of **Coaur**, building **[Synapi](https://synapi.app)**. Based in San Francisco.
 
 ---
 
 ### Verify the work — systems that earn their output
-- [**seas**](https://github.com/yiyaw-lab/seas) — a frontier-research engine (**SEAS**) that won't record a finding until it survives an emission gate, plus **Argo**: a live agentic cofounder on Telegram that turns that research into graded project bets and heals itself from its own incidents.
-- [**agent-armor**](https://github.com/yiyaw-lab/agent-armor) — armor for coding agents: a playbook of Claude Code skills that make an agent *prove* its work, not describe it. First overnight run shipped 6/6 tasks at **$11.52 each**, and the one defect of the night was caught when an adversarial reviewer refused an agent that had gamed its own done-check.
-- [**buildlog**](https://github.com/yiyaw-lab/buildlog) — a local continuity CLI for builders who ship with agents: each session starts where the last one ended.
+- [**seas**](https://github.com/yiyaw-lab/seas) — a frontier-research engine (**SEAS**) built around an emission gate that a finding must clear before it's recorded, paired with **Argo**: an agentic cofounder on Telegram that turns the research into graded project bets.
+- [**agent-armor**](https://github.com/yiyaw-lab/agent-armor) — a suite of Claude Code skills that make an agent *prove* its work instead of describing it: pinned done-checks with negative controls, fresh-context reviewers prompted to refute rather than approve, measured token economics.
+- [**buildlog**](https://github.com/yiyaw-lab/buildlog) — a local continuity CLI for builders who ship with agents: each session resumes where the last one ended.
 
 ### Verify the human — minds that stay sharp as the tools get smarter
-- [**Synapi**](https://synapi.app) — the metacognitive layer that proves *you're* getting smarter, not just your tools: spaced retrieval, Bayesian mastery, a portable Learner Card.
+- [**Synapi**](https://synapi.app) — the metacognitive layer for proving *you're* getting smarter, not just your tools: spaced retrieval, Bayesian mastery, a portable Learner Card.
 - [**ocii**](https://github.com/yiyaw-lab/ocii) — Open Cognitive Integrity Infrastructure: a research platform for evaluating genuine human understanding versus fluent AI-assisted output.
-- [**synapi-professor**](https://github.com/yiyaw-lab/synapi-professor) — Prof. Syd, a daily LLM professor that runs spaced retrieval over what you've actually read.
+- [**synapi-professor**](https://github.com/yiyaw-lab/synapi-professor) — Prof. Syd, a daily LLM professor that runs spaced retrieval over what you've read.
 - [**thinkelse**](https://github.com/yiyaw-lab/thinkelse) — Else, a text-based family curiosity coach.
 
 ---
 
-Building in public → [**yiya.dev**](https://yiya.dev) · [**X @yiyadev**](https://x.com/yiyadev) · [**Synapi**](https://synapi.app)
-
-*Receipts over adjectives. A tool ships only after it survives contact with my own work.*
+Building in public → [**yiya.dev**](https://yiya.dev) · [**X @yiyadev**](https://x.com/yiyadev)

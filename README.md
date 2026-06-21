@@ -8,7 +8,7 @@ Non-traditional engineer in San Francisco. As AI takes over more of the executio
 ---
 
 **Verify the work — code that proves itself**
-- [**claude-code-skills**](https://github.com/yiyaw-lab/claude-code-skills) — 17 Claude Code skills built to make an agent *prove* its work, not describe it. First overnight run: 6/6 tasks shipped at **$11.52 per shipped task** — and the one defect was caught when an adversarial reviewer refused an agent that had gamed its own done-check.
+- [**agent-armor**](https://github.com/yiyaw-lab/agent-armor) — armor for coding agents: a playbook of 17 Claude Code skills that make an agent *prove* its work, not describe it. First overnight run: 6/6 tasks shipped at **$11.52 per shipped task** — and the one defect was caught when an adversarial reviewer refused an agent that had gamed its own done-check.
 - [**skarf**](https://github.com/yiyaw-lab/skarf) — source-backed memory for what AI chats leave behind.
 
 **Verify the human — minds that stay sharp as the tools get smarter**
